@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Cursando Sistemas de Informação<br>- Altualmente estudando Java</p>
+<p align="left">- Cursando Sistemas de Informação<br>- Altualmente estudando Web</p>
 
 ###
 
