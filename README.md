@@ -28,6 +28,7 @@ Currently studying **Information Systems** and building projects to improve my b
 **Currently Learning**
 - TypeScript
 - React
+- Python(FastApi)
 
 ---
 
