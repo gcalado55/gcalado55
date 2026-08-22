@@ -20,11 +20,11 @@
 
 ```yaml
 name: "Gabriel Calado Cartaxo Rodrigues"
-role: "Backend Developer | Requirements Analyst"
+role: "Backend Developer"
 location: "Recife, Brasil"
 education: "Information Systems @ CESAR School (2024.2 - Atual)"
 focus: ["Java", "Spring Boot", "REST APIs", "Requirements Engineering"]
-currently_learning: ["TypeScript", "React", "Python (FastAPI)"]
+currently_learning: ["Python (FastAPI)"]
 fun_fact: "I turn business requirements into working APIs — and I document both sides."
 ```
 
