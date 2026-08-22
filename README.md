@@ -29,9 +29,8 @@ fun_fact: "I turn business requirements into working APIs — and I document bot
 ```
 
 - 🔭 Atualmente construindo APIs REST escaláveis com **Java & Spring Boot**
-- 📋 Atuo também como **Analista de Requisitos**, unindo levantamento de requisitos, UML e desenvolvimento
-- 🌱 Aprendendo **TypeScript, React e FastAPI** pra expandir pro full stack
-- ⚡ Fun fact: gosto tanto de escrever o diagrama quanto o código que ele descreve
+- 📋 Atuei também como **Analista de Requisitos**, unindo levantamento de requisitos, UML e desenvolvimento
+- 🌱 Aprendendo **Python e FastAPI** pra expandir pro full stack
 
 <br/>
 
