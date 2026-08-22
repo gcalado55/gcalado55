@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:222426,100:92a649&text=Gabriel%20Calado&fontColor=d0f252&fontSize=55&fontAlignY=35&animation=fadeIn&desc=Backend%20Developer%20%7C%20Java%20and%20Spring%20Boot&descSize=20&descAlignY=55&descColor=e3f26d" width="100%"/>
 
 ### 💻 Building scalable REST APIs with Java + Spring Boot
-##### Sistemas de Informação · CESAR School(cursando)
+##### Sistemas de Informação · CESAR School
 
 <br/>
 
