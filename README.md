@@ -25,11 +25,10 @@ location: "Recife, Brasil"
 education: "Information Systems @ CESAR School (2024.2 - Atual)"
 focus: ["Java", "Spring Boot", "REST APIs", "Requirements Engineering"]
 currently_learning: ["Python (FastAPI)"]
-fun_fact: "I turn business requirements into working APIs — and I document both sides."
 ```
 
 - 🔭 Atualmente construindo APIs REST escaláveis com **Java & Spring Boot**
-- 📋 Atuei também como **Analista de Requisitos**, unindo levantamento de requisitos, UML e desenvolvimento
+- 📋 Atuo também como **Analista de Requisitos**, unindo levantamento de requisitos, UML e desenvolvimento
 - 🌱 Aprendendo **Python e FastAPI** pra expandir pro full stack
 
 <br/>
@@ -66,6 +65,8 @@ fun_fact: "I turn business requirements into working APIs — and I document bot
 
 **Currently Learning**
 <br/>
+<img src="https://img.shields.io/badge/TypeScript-E3F26D?style=for-the-badge&logo=typescript&logoColor=222426"/>
+<img src="https://img.shields.io/badge/React-E3F26D?style=for-the-badge&logo=react&logoColor=222426"/>
 <img src="https://img.shields.io/badge/FastAPI-E3F26D?style=for-the-badge&logo=fastapi&logoColor=222426"/>
 <img src="https://img.shields.io/badge/Python-E3F26D?style=for-the-badge&logo=python&logoColor=222426"/>
 
@@ -130,9 +131,11 @@ Order management API focused on **clean architecture and business rule separatio
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=gcalado55&background=222426&border=697345&stroke=222426&ring=D0F252&fire=E3F26D&currStreakNum=D0F252&sideNums=92A649&currStreakLabel=D0F252&sideLabels=92A649&dates=697345&hide_border=false" width="70%"/>
 </div>
 
-<sub>⚠️ Este widget usa um serviço gratuito comunitário e pode ficar instável ocasionalmente — se sumir, é o servidor deles, não o seu perfil.</sub>
-
 <br/><br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/gcalado55/gcalado55/output/github-contribution-grid-snake.svg" width="90%"/>
+</div>
 
 <br/>
 
