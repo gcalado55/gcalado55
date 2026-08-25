@@ -20,7 +20,6 @@
 
 ```yaml
 name: "Gabriel Calado Cartaxo Rodrigues"
-role: "Backend Developer"
 location: "Recife, Brasil"
 education: "Information Systems @ CESAR School (2024.2 - Atual)"
 focus: ["Java", "Spring Boot", "REST APIs", "Requirements Engineering"]
