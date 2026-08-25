@@ -32,11 +32,10 @@ currently_learning: ["Python (FastAPI)"]
 
 <br/>
 
-## 🛠️ Tech Stack
+##
 
 <div align="center">
 
-**Backend**
 <br/>
 <img src="https://img.shields.io/badge/Java-222426?style=for-the-badge&logo=openjdk&logoColor=D0F252"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-222426?style=for-the-badge&logo=spring&logoColor=D0F252"/>
@@ -45,14 +44,14 @@ currently_learning: ["Python (FastAPI)"]
 
 <br/><br/>
 
-**Database**
+
 <br/>
 <img src="https://img.shields.io/badge/MySQL-697345?style=for-the-badge&logo=mysql&logoColor=E3F26D"/>
 <img src="https://img.shields.io/badge/PostgreSQL-697345?style=for-the-badge&logo=postgresql&logoColor=E3F26D"/>
 
 <br/><br/>
 
-**Tools & Methodologies**
+
 <br/>
 <img src="https://img.shields.io/badge/Docker-92A649?style=for-the-badge&logo=docker&logoColor=222426"/>
 <img src="https://img.shields.io/badge/Git-92A649?style=for-the-badge&logo=git&logoColor=222426"/>
@@ -62,12 +61,13 @@ currently_learning: ["Python (FastAPI)"]
 
 <br/><br/>
 
-**Currently Learning**
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-E3F26D?style=for-the-badge&logo=typescript&logoColor=222426"/>
 <img src="https://img.shields.io/badge/React-E3F26D?style=for-the-badge&logo=react&logoColor=222426"/>
 <img src="https://img.shields.io/badge/FastAPI-E3F26D?style=for-the-badge&logo=fastapi&logoColor=222426"/>
 <img src="https://img.shields.io/badge/Python-E3F26D?style=for-the-badge&logo=python&logoColor=222426"/>
+
+**☝️Currently Learning**
 
 </div>
 
