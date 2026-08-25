@@ -32,7 +32,7 @@ currently_learning: ["Python (FastAPI)"]
 
 <br/>
 
-##
+## Knowledge
 
 <div align="center">
 
@@ -42,14 +42,14 @@ currently_learning: ["Python (FastAPI)"]
 <img src="https://img.shields.io/badge/Hibernate/JPA-222426?style=for-the-badge&logo=hibernate&logoColor=D0F252"/>
 <img src="https://img.shields.io/badge/Postman-222426?style=for-the-badge&logo=postman&logoColor=D0F252"/>
 
-<br/><br/>
+<br/>
 
 
 <br/>
 <img src="https://img.shields.io/badge/MySQL-697345?style=for-the-badge&logo=mysql&logoColor=E3F26D"/>
 <img src="https://img.shields.io/badge/PostgreSQL-697345?style=for-the-badge&logo=postgresql&logoColor=E3F26D"/>
 
-<br/><br/>
+<br/>
 
 
 <br/>
@@ -59,15 +59,16 @@ currently_learning: ["Python (FastAPI)"]
 <img src="https://img.shields.io/badge/Jira-92A649?style=for-the-badge&logo=jira&logoColor=222426"/>
 <img src="https://img.shields.io/badge/Trello-92A649?style=for-the-badge&logo=trello&logoColor=222426"/>
 
-<br/><br/>
+<br/>
+</div>
 
+## Currently Learning
+<div align="center">
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-E3F26D?style=for-the-badge&logo=typescript&logoColor=222426"/>
 <img src="https://img.shields.io/badge/React-E3F26D?style=for-the-badge&logo=react&logoColor=222426"/>
 <img src="https://img.shields.io/badge/FastAPI-E3F26D?style=for-the-badge&logo=fastapi&logoColor=222426"/>
 <img src="https://img.shields.io/badge/Python-E3F26D?style=for-the-badge&logo=python&logoColor=222426"/>
-
-**☝️Currently Learning**
 
 </div>
 
